@@ -2,6 +2,8 @@
   "id": "ismaels-little-toolbox",
   "title": "Ismael's Little Toolbox",
   "version": "1.1.0",
+  "manifest": "https://github.com/maciekpdm/ismaels-little-toolbox/releases/latest/download/module.json",
+  "download": "https://github.com/maciekpdm/ismaels-little-toolbox/releases/download/1.1.0/module.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
