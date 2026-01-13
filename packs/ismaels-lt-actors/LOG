@@ -1,14 +1,14 @@
-2026/01/11-17:05:53.530 3298 Recovering log #162
-2026/01/11-17:05:53.533 3298 Delete type=0 #162
-2026/01/11-17:05:53.533 3298 Delete type=3 #161
-2026/01/11-19:17:34.912 54c8 Level-0 table #166: started
-2026/01/11-19:17:34.921 54c8 Level-0 table #166: 581043 bytes OK
-2026/01/11-19:17:34.922 54c8 Delete type=0 #164
-2026/01/11-19:17:34.926 54c8 Manual compaction at level-0 from '!actors!W3BG8nFeix2uLDki' @ 72057594037927935 : 1 .. '!folders!sGjLUnzmvzE6cluK' @ 0 : 0; will stop at '!folders!sGjLUnzmvzE6cluK' @ 52 : 1
-2026/01/11-19:17:34.926 54c8 Compacting 1@0 + 1@1 files
-2026/01/11-19:17:34.934 54c8 Generated table #167@0: 98 keys, 122001 bytes
-2026/01/11-19:17:34.934 54c8 Compacted 1@0 + 1@1 files => 122001 bytes
-2026/01/11-19:17:34.934 54c8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/01/11-19:17:34.935 54c8 Delete type=2 #24
-2026/01/11-19:17:34.935 54c8 Delete type=2 #166
-2026/01/11-19:17:34.935 54c8 Manual compaction at level-0 from '!folders!sGjLUnzmvzE6cluK' @ 52 : 1 .. '!folders!sGjLUnzmvzE6cluK' @ 0 : 0; will stop at (end)
+2026/01/13-00:38:43.177 4718 Recovering log #174
+2026/01/13-00:38:43.181 4718 Delete type=0 #174
+2026/01/13-00:38:43.181 4718 Delete type=3 #172
+2026/01/13-00:46:29.880 d60 Level-0 table #179: started
+2026/01/13-00:46:29.885 d60 Level-0 table #179: 161408 bytes OK
+2026/01/13-00:46:29.886 d60 Delete type=0 #177
+2026/01/13-00:46:29.910 d60 Manual compaction at level-0 from '!actors!2t0NZuvoZSDzqLyd' @ 72057594037927935 : 1 .. '!folders!sGjLUnzmvzE6cluK' @ 0 : 0; will stop at '!folders!1AwxnQDz8VdiQBPj' @ 540 : 1
+2026/01/13-00:46:29.910 d60 Compacting 1@0 + 1@1 files
+2026/01/13-00:46:29.918 d60 Generated table #180@0: 219 keys, 257118 bytes
+2026/01/13-00:46:29.918 d60 Compacted 1@0 + 1@1 files => 257118 bytes
+2026/01/13-00:46:29.919 d60 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/13-00:46:29.919 d60 Delete type=2 #167
+2026/01/13-00:46:29.920 d60 Delete type=2 #179
+2026/01/13-00:46:29.935 d60 Manual compaction at level-0 from '!folders!1AwxnQDz8VdiQBPj' @ 540 : 1 .. '!folders!sGjLUnzmvzE6cluK' @ 0 : 0; will stop at (end)
